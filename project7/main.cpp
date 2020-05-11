@@ -83,7 +83,7 @@ int main()
   vector<BuildingInfo>         Buildings; // info about each building, in no particular order
   XMLDocument                  xmldoc;
 	
-	graph<long long, double> G; // vertices are nodes, weights are distances
+  graph<long long, double> G; // vertices are nodes, weights are distances
   
   cout << "** Navigating UIC open street map **" << endl;
   cout << endl;
