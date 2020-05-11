@@ -1,0 +1,11 @@
+{
+  "name": "uic-pathfinder",
+  "version": "1.0.0",
+  "description": "Extension of Project 8 for CS251 @ UIC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
